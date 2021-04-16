@@ -4,7 +4,7 @@
 
   * You can use `git clone` terminal command.
   * In my case, I don't know how to `git clone` in Windows becuase using MacOS.
-  * git clone
+  * Command : `git clone https://github.com/KJH-YouTube/MATLAB-ODE.git`
 
 
 ## Included Contents
