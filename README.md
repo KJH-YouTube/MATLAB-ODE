@@ -3,7 +3,7 @@
 ## How To Use
 
   * You can use `git clone` terminal command.
-  * In my case, I don't know how to `git clone` in Windows becuase using MacOS.
+  * In my case, I don't know how to `git clone` in Windows becuase using MacOS and Linux.
   * Command : `git clone https://github.com/KJH-YouTube/MATLAB-ODE.git`
 
 
